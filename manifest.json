@@ -24,6 +24,5 @@
       "type": "image/png"
     }
   ],
-  "orientation": "portrait",
-  //"scope": "/"
-  }
+  "orientation": "portrait"
+   }
