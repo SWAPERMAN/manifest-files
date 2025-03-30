@@ -8,6 +8,11 @@
   "theme_color": "#1A247D",
   "description": "QULIBIN APP",
   "icons": [
+     {
+      "src": "https://raw.githubusercontent.com/SWAPERMAN/manifest-files/refs/heads/main/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
     {
       "src": "https://raw.githubusercontent.com/SWAPERMAN/manifest-files/refs/heads/main/icon-192x192.png",
       "sizes": "192x192",
