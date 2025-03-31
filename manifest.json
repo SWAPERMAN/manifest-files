@@ -3,11 +3,9 @@
   "name": "QULIBIN",
   "short_name": "QULIBIN",
   "start_url": "https://qulibin.com/",
-  "id": "https://qulibin.com/",
   "display": "standalone",
   "background_color": "#1A247D",
   "theme_color": "#1A247D",
-  "orientation": "portrait",
   "description": "QULIBIN APP",
   "icons": [
      {
@@ -25,5 +23,8 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
-}
+  ],
+  "orientation": "portrait",
+  "dir":"auto",
+  "lang":"ru-RU"
+  }
