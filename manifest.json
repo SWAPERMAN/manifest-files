@@ -2,8 +2,7 @@
 {
   "name": "QULIBIN",
   "short_name": "QULIBIN", 
-  "id": "https://qulibin.com", 
-  "start_url": "/",
+  "start_url": "https://qulibin.com",   
   "display": "standalone",
   "background_color": "#1A247D",
   "theme_color": "#1A247D",
