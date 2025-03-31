@@ -4,6 +4,7 @@ const staticAssets = [
   '/index.html',
   '/style.css',
   '/script.js',
+  '/icons/icon-144x144.png',
   '/icons/icon-192x192.png',
   '/icons/icon-512x512.png',
 ];
