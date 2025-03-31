@@ -1,9 +1,8 @@
 
 {
   "name": "QULIBIN",
-  "short_name": "QULIBIN",
-  "id": "/?source=pwa",
-  "start_url": "/?source=pwa",
+  "short_name": "QULIBIN",  
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#1A247D",
   "theme_color": "#1A247D",
@@ -25,7 +24,6 @@
       "type": "image/png"
     }
   ],
-  "orientation": "portrait",
-  "dir":"auto",
+  "orientation": "portrait", 
   "lang":"ru-RU"
   }
