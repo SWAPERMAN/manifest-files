@@ -1,8 +1,9 @@
 
 {
   "name": "QULIBIN",
-  "short_name": "QULIBIN",  
-  "start_url": "/",
+  "short_name": "QULIBIN", 
+  "id": "https://qulibin.com", 
+  "start_url": "https://qulibin.com",
   "display": "standalone",
   "background_color": "#1A247D",
   "theme_color": "#1A247D",
@@ -25,5 +26,19 @@
     }
   ],
   "orientation": "portrait", 
+  "screenshots": [
+    {
+      "src": "https://github.com/SWAPERMAN/manifest-files/blob/main/540x720.png?raw=true",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://github.com/SWAPERMAN/manifest-files/blob/main/720x540.png?raw=true",
+      "type": "image/png",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    }
+  ],
   "lang":"ru-RU"
-  }
+}
